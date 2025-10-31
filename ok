@@ -1079,8 +1079,8 @@ Accessories = {
 { MeshId = "105141400603933", Name = "Left Leg", Offset = CFrame.Angles(0, 0, Rad(90)), TextureId = "71060417496309" },
 { MeshId = "90736849096372", Name = "Right Leg", Offset = CFrame.Angles(0, 0,  Rad(90)), TextureId = "79186624401216" },
 -- request
-{ MeshId = "14768666349", Name = "Torso", Offset = CFrame.Angles(0, 0, 0), TextureId = "14768664565" },
-{ MeshId = "14768684979", Names = { "Left Arm", "Right Arm"}, Offset = CFrame.Angles(0, 0, 1.57), TextureId = "14768683674" },
+{ MeshId = "136511317486646", Names = { "Left Leg", }, Offset = CFrame.Angles(0, 1.57, 0), TextureId = "102667215460588" },
+{ MeshId = "71185284488777", Names = { "Right Leg" }, Offset = CFrame.Angles(0, -1.57, 0), TextureId = "102667215460588" },
 },
 ApplyDescription = true,
 BreakJointsDelay = 0.255,
