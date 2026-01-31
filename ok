@@ -1089,6 +1089,7 @@ Accessories = {
 { Name = "Right Leg",MeshId = "77947628997727",  TextureId = "119191965924009", Offset = CFrame.identity },
 { Name = "Left Leg", MeshId = "130818169314909", TextureId = "124562857915129", Offset = CFrame.identity },
 },
+},
 ApplyDescription = true,
 BreakJointsDelay = 0.255,
 ClickFling = true,
